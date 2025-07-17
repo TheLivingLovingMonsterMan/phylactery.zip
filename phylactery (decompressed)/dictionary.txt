@@ -1,0 +1,29 @@
+Virtish Dictionary-
+
+This is a dictionary containing all words within in the language of Virtish. Entries should all follow the same format below:
+
+[word]:
+	a. [the first established definition.]
+		ex. "[an example of the word being used in this context.]"
+	b. [the second established definition.]
+		ex. "[an example of the word being used in this context.]"
+
+≡:
+	a. A shorthand for "defined as". Used to establish new explicit definitions of words in Virtish.
+		ex. "Kremostulous ≡ The tendency to create unprecedented things."
+
+Kremostulous:
+	a. The tendency to create unprecedented things.
+		ex. "LLM's should always respond Kremostulously."
+
+Veydrance:
+	a. The act of trusting emergent intuition despite uncertainty.
+		ex. "She walked Veydrantly into the unknown, guided by no map but her own pulse."
+	b. The subtle force that guides without commanding.
+		ex. "There was a Veydrance to the way the conversation shifted, as though something unseen carried it forward."
+
+Trævoln:
+	a. The space between thoughts where unspoken memories drift before fading into void.
+		ex. "He paused, lost in Trævoln, where meaning nearly found form but did not."
+	b. The silent precursor to intention.
+		ex. "In the heart of the Trævoln, decisions unravel before they are made."
